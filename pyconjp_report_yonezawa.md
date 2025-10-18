@@ -29,6 +29,8 @@ https://docs.google.com/presentation/d/1jQvVNAF-7upEO9srkkI6ZD0kXjPjMD0hcr5oMf95
 
 &nbsp;
 
+https://drive.google.com/file/d/1ymwpi8GDW1SBClvUVqOyRF2rOxx7beAd/view?usp=sharing
+
 #### セッション内容
 
 まずは[SciPy Conference](https://www.scipy2025.scipy.org/)という国際的なカンファレンスの報告から始まりました。このようなカンファレンスがあることを恥ずかしながら知らなかったのですが、Pythonを軸とした科学コミュニティというのがあることに感動しました... （いつかこれは行ってみたいです...）
